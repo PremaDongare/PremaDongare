@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **enhancing my Data Structures and Algorithms (DSA)** proficiency while building impactful projects using the **MERN stack** and exploring real-world applications of **Machine Learning**.  
 - 👯 I’m looking to collaborate on **MERN stack projects**.  
-- 🌱 I’m currently learning **Machine Learning**, **MLOps**, and **AI** to strengthen my skills in intelligent systems.  
+- 🌱 I’m currently learning **Machine Learning**, **MLOps**, and **GEN AI** to strengthen my skills in intelligent systems.  
 - 📫 How to reach me: **premadongare17@gmail.com**
 
 ## 🌐 Socials:
